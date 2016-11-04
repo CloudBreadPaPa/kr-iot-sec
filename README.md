@@ -1,12 +1,10 @@
 # kr-iot-sec
-kr-iot-sec
+2016년 11월 4일 KISA IoT Hackathon 멘토링을 위한 Repository  
+Short URL : http://aka.ms/kr-iot-sec  
 
 
 ###Stream analytics real-time analytics API
-
 Stream Analytics에서 Fraud Detection이 가능하도록 구성  
-
-
 
 **Fraud Detection 분석을 위한 Stream analytics 목표 :**  
 
@@ -133,7 +131,7 @@ Stream Analytics를 실행하고, fraud device를 수행한 후, fraudoutput을 
 
 
 
-###26. Real-time Business Intelligence 플랫폼
+###Real-time Business Intelligence 플랫폼
 
 데이터를 visualize 시키기 위한 Business Intelligence 플랫폼 제공  
 
