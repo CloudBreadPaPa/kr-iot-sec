@@ -1,7 +1,7 @@
 # kr-iot-sec
 2016년 11월 4일 KISA IoT Hackathon 멘토링을 위한 Repository  
 Short URL : http://aka.ms/kr-iot-sec  
-
+Fraud detection device code : 하위 vscode 참조  
 
 ###Stream analytics real-time analytics API
 Stream Analytics에서 Fraud Detection이 가능하도록 구성  
