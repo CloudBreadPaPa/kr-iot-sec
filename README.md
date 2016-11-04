@@ -184,3 +184,9 @@ Power BI에 게시된 상태이기 때문에 팀에서 손쉬운 Report 를 공�
 
 ### node.js에서 Azure Blob 저장소에 접근 하는 예제 코드
 node.js-storage-code 폴더의 코드 참조  
+
+### Azure Blob Storage에 instant로 접근하기 위한 token 생성
+Stored Access Policy 내용 참조  
+컨테이너 및 Blob에 대한 익명 읽기 권한 관리 : https://azure.microsoft.com/ko-kr/documentation/articles/storage-manage-access-to-resources/  
+
+감사합니다.
