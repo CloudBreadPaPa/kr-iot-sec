@@ -169,7 +169,7 @@ Power BI에 게시된 상태이기 때문에 팀에서 손쉬운 Report 를 공�
 
 - ![Power BI Data Visualization](images/27-3.png)  
 
-일반 웹페이지에 게시하는 과정을 수행하며, Link 방식과 Embed 방식 모두 제공
+일반 웹페이지에 게시하는 과정을 수행하며, Link 방식과 Embed 방식 모두 제공  
 
 
 
@@ -179,4 +179,8 @@ Power BI에 게시된 상태이기 때문에 팀에서 손쉬운 Report 를 공�
 
 - ![Power BI Data Visualization](images/27-4.png)  
 
-웹 페이지 등에 Interactive Report로 첨부가 가능
+웹 페이지 등에 Interactive Report로 첨부가 가능  
+
+
+### node.js에서 Azure Blob 저장소에 접근 하는 예제 코드
+node.js-storage-code 폴더의 코드 참조  
